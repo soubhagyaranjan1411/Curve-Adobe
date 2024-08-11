@@ -1,0 +1,7 @@
+Flask==2.3.2
+numpy==1.25.2
+svgpathtools==1.6.1
+opencv-python-headless==4.8.0.76
+scipy==1.11.1
+shapely==2.0.1
+gunicorn==23.0.0
